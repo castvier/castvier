@@ -3,7 +3,8 @@
 Here are some stats about my work:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=castvier&show_icons=true&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=castviertheme=darkhub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castvier&layout=compact&theme=radical)
+
 
 
 Thank you for visiting my profile! 🚀
