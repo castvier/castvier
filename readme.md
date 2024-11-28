@@ -2,7 +2,7 @@
 
 Here are some stats about my work:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=REPOSITORY_NAME&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=RTTM&theme=radical)
 
 
 <div align="center">
