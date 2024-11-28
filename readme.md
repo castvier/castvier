@@ -2,8 +2,16 @@
 
 Here are some stats about my work:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=castvier&show_icons=true&theme=gruvbox&card_width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castvier&layout=compact&theme=gruvbox&card_width=500&custom_title=Top%20Languages)
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&card_width=400" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&card_width=400&langs_count=6" alt="Top Languages" />
+  
+</div>
+
 
 
 Thank you for visiting my profile! 🚀
