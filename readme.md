@@ -2,8 +2,12 @@
 
 Here are some stats about my work:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=RTTM&theme=radical)
+## 🔥 Top Projects
+Here are some repositories I'm proud of:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=RTTM&theme=radical)](https://github.com/castvier/RTTM)
+
+A real-time traffic monitoring project to track vehicle activity.
 
 <div align="center">
   
