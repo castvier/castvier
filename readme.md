@@ -28,7 +28,7 @@
     alt="Top Languages"
     style="margin: 10px;" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 Thank you for visiting my profile! 🚀
 </div>
 
