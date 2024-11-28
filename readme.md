@@ -28,11 +28,11 @@
     alt="Top Languages"
     style="margin: 10px;" />
 
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 Thank you for visiting my profile! 🚀
 </div>
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castvier&theme=radical&from=2023-01-01&to=2024-11-27)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 
