@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-Here are some stats about my work:
+
 
   <!-- 🔥 Top Projects -->
   ## 🔥 Top Projects
@@ -17,7 +17,7 @@ Here are some stats about my work:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=ai-curatestore&theme=default&card_width=300)](https://github.com/castvier/ai-curatestore)
 
   This project integrates **React** with **Node.js** to create an educational content generator using the **OpenAI API**. Users can input a prompt and select a difficulty level to dynamically generate educational content.
-
+Here are some stats about my work:
   <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=castvier&show_icons=true&theme=default&card_width=420" 
