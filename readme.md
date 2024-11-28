@@ -32,5 +32,6 @@
 Thank you for visiting my profile! 🚀
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castvier&theme=radical&from=2023-01-01&to=2024-11-27)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=castvier&show_icons=true&count_private=true&theme=radical)
+
 
