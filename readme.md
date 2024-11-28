@@ -33,6 +33,6 @@ Thank you for visiting my profile! 🚀
 </div>
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castvier&theme=radical&custom_title=GitHub%20Activity%20Graph%20for%202024)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castvier&theme=tokyo-night&hide_border=true&custom_title=My%20GitHub%20Activity%20for%202024)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
