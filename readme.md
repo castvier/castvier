@@ -28,10 +28,10 @@
     alt="Top Languages"
     style="margin: 10px;" />
 
-    [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castvier&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 
 Thank you for visiting my profile! 🚀
 </div>
 
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castvier&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
