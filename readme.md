@@ -8,9 +8,15 @@ Here are some stats about my work:
   ## 🔥 Top Projects
   Here are some repositories I'm proud of:
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CalTransProject&repo=rttm&theme=default)](https://github.com/CalTransProject/rttm)
+  <!-- RTTM Repository -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CalTransProject&repo=rttm&theme=default&card_width=300)](https://github.com/CalTransProject/rttm)
 
   A real-time traffic monitoring project to track vehicle activity.
+
+  <!-- AI CurateStore Repository -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=ai-curatestore&theme=default&card_width=300)](https://github.com/castvier/ai-curatestore)
+
+  A repository for AI-driven solutions to curate and manage stores effectively.
 
   <!-- GitHub Stats Card -->
   <img 
