@@ -19,10 +19,10 @@ This project integrates **React** with **Node.js** to create an educational cont
 ---
 
 <!-- GitHub Stats Card -->
-<img 
+<!-- <img 
   src="https://github-readme-stats.vercel.app/api?username=castvier&show_icons=true&theme=default&card_width=420" 
   alt="GitHub Stats"
-  style="margin: 10px;" />
+  style="margin: 10px;" />-->
 
 <!-- Most Used Languages Card -->
 <img 
