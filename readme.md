@@ -31,11 +31,10 @@ Here are some repositories I'm proud of:
 
 ---
 
-<br />
-
-> "Mental qualities peculiar to human-like motivational..."
-
-<br />
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" 
+  alt="Quote" 
+/>
 
 ---
 
