@@ -7,26 +7,16 @@ Here are some repositories I'm proud of:
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/CalTransProject/rttm">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=CalTransProject&repo=rttm&theme=radical" 
-          alt="rttm repo card"
-        />
-      </a>
-      <br />
-      <br />
+    <td width="50%" align="center" valign="top">
+      <h3>🚦 RTTM</h3>
+      <a href="https://github.com/CalTransProject/rttm"><strong>View Repository</strong></a>
+      <br /><br />
       A real-time traffic monitoring project to track vehicle activity.
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/castvier/ai-curatestore">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=castvier&repo=ai-curatestore&theme=radical" 
-          alt="ai-curatestore repo card"
-        />
-      </a>
-      <br />
-      <br />
+    <td width="50%" align="center" valign="top">
+      <h3>🤖 AI Curate Store</h3>
+      <a href="https://github.com/castvier/ai-curatestore"><strong>View Repository</strong></a>
+      <br /><br />
       This project integrates <b>React</b> with <b>Node.js</b> to generate educational content using the OpenAI API.
     </td>
   </tr>
@@ -34,17 +24,18 @@ Here are some repositories I'm proud of:
 
 ---
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=castvier&layout=compact&theme=radical&card_width=400" 
-  alt="Top Languages" 
-/>
+### Top Languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ---
 
-<img 
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" 
-  alt="Quote" 
-/>
+<br />
+
+> "Mental qualities peculiar to human-like motivational..."
+
+<br />
 
 ---
 
